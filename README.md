@@ -29,6 +29,8 @@ Let's have a quick view of the key features included in our Whatsapp clone. Thos
 
 At last by incorporating these key features your WhatsApp clone will offer a comprehensive and user-friendly instant messaging experience tailored to your business requirements to reach your target audiences. Additionally, you can consider adding more unique features or integrations to highlight your app and offer value to users.
 
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“whatsappclone.png" src="https://github.com/migrateshop/whatsapp-clone/blob/main/images/whatsapp-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
 ## Step By Step Guidelines To Build A Instant Messaging App Like WhatsApp
 Designing and developing a[ WhatsApp clone app](https://migrateshop.com/whatsapp-clone/) from scratch is quite a daunting task, but breaking it down into smaller steps can make the process more manageable.
 
@@ -62,7 +64,7 @@ Conduct thorough testing on various devices and platforms. Optimize app performa
 * Publish the app on app stores like Google Play Store and Apple Store. Develop a marketing strategy. And gather users' feedback and continually update with new features and improvements.
 * By following these step-by-step guidelines and leveraging the perfect tools and resources you can build and launch a feature-rich and user-friendly[ whatsapp clone app development](https://migrateshop.com/whatsapp-clone/) that stands out in the market.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“whatsappclone.png" src="" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“whatsappclone.png" src="https://github.com/migrateshop/whatsapp-clone/blob/main/images/whatsapp-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ### Conclusion
 To sum up, developing a[ WhatsApp clone software](https://migrateshop.com/whatsapp-clone/) can be a fruitful project that gives you the chance to produce a feature-rich, safe instant messaging app that satisfies the demands of contemporary customers.  
